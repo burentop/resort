@@ -1,6 +1,6 @@
-# _My First Webpage_
+# _KC's Resort_
 
-#### _A simple webpage as I learn HTML, March 22, 2018_
+#### _A simple webpage as I learn HTML, March 24, 2018_
 
 #### By _**Brent Perry**_
 
@@ -19,6 +19,7 @@ _None_
 ## Technologies Used
 
 * _HTML_
+* _CSS_
 
 ### License
 
